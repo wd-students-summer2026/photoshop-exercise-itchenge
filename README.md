@@ -1,8 +1,17 @@
 # Raster Image Exercise
 
-Welcome! In this assignment, you will use [Photoshop](https://www.adobe.com/products/photoshop.html) or [GIMP](https://www.gimp.org/) to create a picture of yourself placed into an unlikely, unique or impossible location.
+Welcome! In this assignment, you will use a raster image editing program that supports making selections, layers, layer masks, and offers additional visual effects, to create a picture of yourself placed into an unlikely, unique or impossible location.
 
 You might place yourself at the North Pole, for example, climbing the Eiffel Tower, jumping over the moon … or simply standing beside the President at his very crowded inaugural celebration.
+
+## Image editing software
+
+Acceptable software applications at the time of this writing include:
+
+- [Photoshop](https://www.adobe.com/products/photoshop.html) - the industry standard. Not free.
+- [GIMP](https://www.gimp.org/) - an open source, free clone of Photoshop. Terrible user interface.
+- [Photopea](https://www.photopea.com/) - an online raster image editor with a free tier.
+- [Pixlr E](https://pixlr.com/editor/) - an online raster image editor with a free tier.
 
 ## Requirements
 
@@ -17,7 +26,7 @@ Do the following:
 
 Pay special attention to the edges of objects, shadows and lighting as well as to the proportions of your objects. Use filters and layer effects to enhance your image.
 
-There are many, many tools that are available in Photoshop or GIMP, and we encourage you to explore them. Please, have fun with this assignment and feel free to use your imagination!
+There are many, many tools that are available in raster image editing software, and we encourage you to explore them. Please, have fun with this assignment and feel free to use your imagination!
 
 ### Publishing requirements
 
@@ -37,7 +46,9 @@ The work you do in this assignment will be published to the same directory where
 
 In order to submit this assignment, you must publish all modified files to the web and upload the code to GitHub.
 
-You **must** include your original Photoshop `.psd` or GIMP `.xcf` document in the `images` directory in the code you submit to GitHub, as well as the "flat" file in `.jpg` or `.png` format.
+You **must** include your original "layered" file you worked on in the image editing software in the `images` directory in the code you submit to GitHub. For Photoshop and Photopea, this is a `.psd` file; for GIMP, it is a `.xcf` file. For Pixlr E, it is a `.pxz` file.
+
+Also include the exported "flat" file in `.jpg` or `.png` format in the `images` directory.
 
 ### Upload the web page to a web server
 
